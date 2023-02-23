@@ -1,0 +1,9 @@
+GET http://localhost:5000/locations HTTP/1.1
+
+###
+GET http://localhost:5000/registrations HTTP/1.1
+
+###
+GET http://localhost:5000/vaccintypes HTTP/1.1
+
+###
